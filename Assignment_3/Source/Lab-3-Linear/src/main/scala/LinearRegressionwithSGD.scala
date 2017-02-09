@@ -11,11 +11,11 @@ object LinearRegressionwithSGD {
   def main(args: Array[String]): Unit ={
 
 
-    val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
+    val sparkConf = new SparkConf().setAppName("LinearRegression").setMaster("local[*]")
 
     val sc=new SparkContext(sparkConf)
 
-    // Turn off Info Logger for Consolexxx
+    // Turn off Info Logger for Console
     Logger.getLogger("org").setLevel(Level.OFF);
     Logger.getLogger("akka").setLevel(Level.OFF);
 
@@ -33,7 +33,7 @@ object LinearRegressionwithSGD {
 
     // Building the model
     val numIterations = 100
-    val stepSize = 0.001
+    val stepSize = 0.110102
     val model = LinearRegressionWithSGD.train(training, numIterations, stepSize)
 
     // Evaluate model on training examples and compute training error
