@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb83a674e23d1fd5381fe1bae0bd8e28b84be542">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d8eac1df0f87003f1bb18bd3995d1a28f41bd2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-1.0.0_edff9701fae1c7327d59ab9889267e48ff329b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6d6f3d022925e9f498b6a8a3e67a6b82a084efe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b7aff2dd1b79a395bbc22527405f866e9884b8be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.7.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15c5797fa4f75484420119aa4dc509b2047f396a">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tbruyelle.rxpermissions-rxpermissions-0.7.1_194a043b600b744537cb3883919ba711a73c130f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ef622c1c8c7408ac35447814246370b29941a097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.7.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15c5797fa4f75484420119aa4dc509b2047f396a">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tbruyelle.rxpermissions-rxpermissions-0.7.1_21c0ef7edde5eb0cf457952ff959ee9811246910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_34f01c8597a61c0fd09e6affff0036938fd6faab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_9a7d4ecaee4a1a04aca378d8477763c2b0d1b7bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fe7cc898f838d61e00df6767265011dc82faaf3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_815db0b1b1cffeb718758ad4dd1bcfb4b70ffa8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_f019c2dd2703ee5cde5fabb07e759199422e3e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-2.8.0_a8b9ff66ddc731fef3edd60eb90cdb78651e5e9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e5374f83338a58ea271a28fdd6a291babf9fca0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_423865f3494ece2419f2c578b075c0282af54c56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_2b66a13f1c6bfb4ae18871755d50d2f550408acf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30444585fe22aeeeb1560380d9bbbfb867abfc1e">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1003d6d8ce154f83df91c29525df22e243a7afb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_cf35bdf4dcfe388592ead751b2742a1df41735b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.3.0_1d1e69972fa7f14b6cc6d705bdc4c8fc02c7209f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_316cd7c285aad1dacffd105427d508361849755b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_0ed38aa897b126b2201a6371cd3d8c0021ea50e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-2.8.0_dfd6d827ce5b1cbfa268e0daebb49feef6eda0dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0009ad94fb874a0272f7623631fa57ddd7030bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_491a06d79bd687e3c00cfd5f6becc70b9199c260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_2c7f365e67b3ca5a2443fbb861916e5288e0cd97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2d4d46681d40b253e69febd8ac536b7d69b8b41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_dbd76c9a24d52a9e5e77750010651835a6ec39e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25cb970583f22ddfccbbdd3c006c0a2bd9207369">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d63e3e6753fb49f2dfc73f71643760683a160cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_c339c1ab4b2ec99924c10c9d28885a87f0e40bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2f547a0018e8b97041d4179acc6b60843c5a9f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cc15204815f3bf7c388de3ef7f6c37179085b62a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e0c69bca879d378a8e6fa1c04b83dd0106639ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_de3ba339645467c1249bbb7bf3ba1e4f0002fbad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-1.0.0_d9468df7e3b212a174d005edc40d40c880ed2352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7e0a5f1b44bbc8b2e32a6caa53ca707b7ac3c0f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_021b43e8c229ed628fb712cbca163a02bed681ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-5.6.0_acc29a41325991751d3c361ce4801a1282668a75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.10/2ac360e8a47601a8dfd044e646f05b99d151f2e0/rxjava-1.1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.10_72b8a725316fa807c6fe4ac42227fc4b3439cfce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fastadapter-1.8.0_51cd6839fe41550f9d1a6837d856bdf80024c688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0ec23ea9c0a3083252d695f877d630ac873e68f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="72f756490a442fc2d7c769b69baa1e133c1fbb7d">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8cc2862e44d8ce3865b5d5f66be207f4ce40974a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_3c9607ecaa1861c4098718eea97c98cc99dde75c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ada57230122411689562323ea0222021c27d598f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8f23f181f904c5a1b3f52a70a4560ec7b30b4321/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2bf46a57c78b04267fff2b4fb77963392e942341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_571c5108620719a8ca2f6aba9369a2fbcea05686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_307bb32f33b4b90606740241a151aed52632554b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_10f6eeee844de57cb1107c81070274ba65ce4d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_fdeba6ace83e19e2f522677830bcd7f22974c5c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_23cf064a65730315188ac307d1ff3887b00987a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.3.0_fb0e05862bd9dec06bf7a780cf1caae17edb7668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_a8c54a03d57ab68cc2563a233c3f65cf3a543ddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-5.6.0_d46b222dc0bd73d15fc631df5fba91bed8d56f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6ee86d3ba7665493e49414af24d90ccaf7316d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fastadapter-1.8.0_45401317d95e6c992b805be5a520291b96c1e6e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/sibi/Big Data SP17/Big-Data-Analytics-and-Apps-Assignments-SP2017/Assignment_6/Source/AndroidProgramming_2/myclarifaiapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_afb4cf7385c209152d17d0b38214e3e6ae989f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/.gradle/caches/modules-2/files-2.1/com.clarifai.clarifai-api2/core/2.0.2/2f2018aa773ec96511ed1570e9604c81eaca9076/core-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f2018aa773ec96511ed1570e9604c81eaca9076">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-2.0.2_61c2fddc094e2fdbffe5ac26df62c111abfe92fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sibi/Downloads/clarifai-android-starter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f9a4a5f02b57985f379982f4a8585b140cc3b773/classes.dex" />
+    </item>
+
+</items>

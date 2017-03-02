@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+
+
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+  >
+
+    <TextView
+        android:text="Object Identification using Clarifai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textColorHighlight="@color/colorPrimaryDark"
+        android:layout_weight="0.02"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:paddingTop="15sp"
+        android:textColor="@color/material_drawer_dark_background"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="178dp"
+        android:background="?android:windowBackground"
+        android:layout_weight="0.03" />
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/resultsList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.14"
+        android:padding="25sp" />
+
+    <Button
+        android:text="Click here to find objects"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fab"
+        android:layout_weight="0.02"
+        style="@style/Widget.AppCompat.Button.Colored" />
+  </LinearLayout>
+
+</FrameLayout>
