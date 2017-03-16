@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/drawable-mdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_close_white_24.png",
+        "source": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/drawable-mdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-mdpi-v4/transition.png",
+        "source": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/drawable-mdpi-v4/transition.png"
+    }
+]

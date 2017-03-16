@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon.png",
+        "source": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon.png"
+    },
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon_background.png",
+        "source": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon_background.png"
+    }
+]

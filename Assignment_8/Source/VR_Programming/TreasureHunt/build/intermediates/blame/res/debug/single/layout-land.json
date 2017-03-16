@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/layout-land/ui_layer_with_portrait_support.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/sibi/Big Data SP17/Assignments/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/sibi/.android/build-cache/cdea96674f2ad7e8b6f8acb97232ae216a598ed2/output/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 148,
+                        "endColumn": 56,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
+    }
+]
