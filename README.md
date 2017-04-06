@@ -20,4 +20,4 @@ Lab Assignment 8:https://github.com/sibicramesh/Big-Data-Analytics-and-Apps-Assi
 
 Lab Assignment 9:https://github.com/sibicramesh/Big-Data-Analytics-and-Apps-Assignments-SP2017/wiki/Lab-Assignment-9
 
-Lab Assignment 10:https://github.com/sibicramesh/Big-Data-Analytics-and-Apps-Assignments-SP2017/wiki/Lab-Assignment-10
+Lab Assignment10:https://github.com/sibicramesh/Big-Data-Analytics-and-Apps-Assignments-SP2017/wiki/Lab-Assignment-10
