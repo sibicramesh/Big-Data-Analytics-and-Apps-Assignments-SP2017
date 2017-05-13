@@ -1,4 +1,4 @@
-# Big-Data-Analytics-and-Apps-Assignments-SP2017
+# Big-Data-Analytics-and-Applications-Assignments-SP2017
 
 ## Lab Reports:
 
